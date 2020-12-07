@@ -1,2 +1,2 @@
 # mydatasciencework
-Collection of my projects and works in data science
+Collection of my projects and work in data science
